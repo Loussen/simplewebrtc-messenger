@@ -4,7 +4,7 @@
   "description": "Simple WebRTC Messenger",
   "scripts": {
     "start": "node server.js",
-    "build": "my-framework build --output public"
+    "build": "npm build public"
   },
   "keywords": [
     "WebRTC"
